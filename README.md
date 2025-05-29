@@ -1,4 +1,3 @@
-````markdown
 # 🛒 Django + OpenSearch Product Search Backend
 
 This project provides a lightweight, extensible backend for product search using **Django** and **OpenSearch**. It supports tag-based filtering, free-text search, and future-ready support for semantic vector search (e.g., via CLIP or custom embeddings).
@@ -46,10 +45,8 @@ docker-compose up -d opensearch
 # Run Django
 python manage.py migrate
 python manage.py runserver
-```
-````
 
----
+```
 
 ## 📁 Key Files
 
